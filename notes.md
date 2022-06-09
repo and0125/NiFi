@@ -48,3 +48,5 @@ You can finish a simple workflow in a minute. For example, you can add processor
 Each processor has settings, scheduling, properties and a comment section to alter details of the processor.
 
 Use the play button to start the processors. In the example, the GetFile processor was continously monitoring the input folder, and this pulled the data instantaneously into the output folder.
+
+[Continue watching playlist.](https://www.youtube.com/watch?v=INNh49QLo3I&list=PL55symSEWBbMBSnNW_Aboh2TpYkNIFMgb&index=7)
